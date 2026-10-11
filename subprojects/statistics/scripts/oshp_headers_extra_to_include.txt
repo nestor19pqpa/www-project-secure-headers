@@ -1,4 +1,0 @@
-expect-ct
-public-key-pins
-x-xss-protection
-content-security-policy-report-only
